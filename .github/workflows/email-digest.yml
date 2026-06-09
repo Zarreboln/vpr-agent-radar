@@ -35,8 +35,10 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "[VPR Radar] ${{ steps.pick.outputs.date }} 新论文"
+          subject: "[VPR Radar] ${{ steps.pick.outputs.date }} 论文日报"
           to: ziningl@mit.edu
-          from: VPR Radar <${{ secrets.MAIL_USERNAME }}>
+          from: VPR Paper Radar <${{ secrets.MAIL_USERNAME }}>
+          reply_to: ${{ secrets.MAIL_USERNAME }}
+          body: file://${{ steps.pick.outputs.file }}
           html_body: file://${{ steps.pick.outputs.file }}
           convert_markdown: true
