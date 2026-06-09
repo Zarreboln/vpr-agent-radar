@@ -1,0 +1,42 @@
+name: Email VPR digest
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'digests/**'
+  workflow_dispatch: {}
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pick latest dated digest
+        id: pick
+        run: |
+          f=$(ls digests/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md 2>/dev/null | sort | tail -1)
+          if [ -z "$f" ]; then
+            echo "No dated digest found; nothing to send."
+            echo "found=0" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "found=1" >> "$GITHUB_OUTPUT"
+          echo "file=$f" >> "$GITHUB_OUTPUT"
+          echo "date=$(basename "$f" .md)" >> "$GITHUB_OUTPUT"
+
+      - name: Send email
+        if: steps.pick.outputs.found == '1'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "[VPR Radar] ${{ steps.pick.outputs.date }} 新论文"
+          to: ziningl@mit.edu
+          from: VPR Radar <${{ secrets.MAIL_USERNAME }}>
+          html_body: file://${{ steps.pick.outputs.file }}
+          convert_markdown: true
