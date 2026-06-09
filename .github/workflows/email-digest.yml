@@ -13,18 +13,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Pick latest dated digest
+      - name: Pick the per-run email file (only this run's new papers)
         id: pick
         run: |
-          f=$(ls digests/[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].md 2>/dev/null | sort | tail -1)
-          if [ -z "$f" ]; then
-            echo "No dated digest found; nothing to send."
+          f="digests/_email.md"
+          if [ ! -s "$f" ]; then
+            echo "No _email.md (no new papers this run); nothing to send."
             echo "found=0" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           echo "found=1" >> "$GITHUB_OUTPUT"
           echo "file=$f" >> "$GITHUB_OUTPUT"
-          echo "date=$(basename "$f" .md)" >> "$GITHUB_OUTPUT"
+          echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
 
       - name: Send email
         if: steps.pick.outputs.found == '1'
@@ -35,7 +35,7 @@ jobs:
           secure: true
           username: ${{ secrets.MAIL_USERNAME }}
           password: ${{ secrets.MAIL_PASSWORD }}
-          subject: "[VPR Radar] ${{ steps.pick.outputs.date }} 论文日报"
+          subject: "[VPR Radar] ${{ steps.pick.outputs.date }} 新论文"
           to: ziningl@mit.edu
           from: VPR Paper Radar <${{ secrets.MAIL_USERNAME }}>
           reply_to: ${{ secrets.MAIL_USERNAME }}
