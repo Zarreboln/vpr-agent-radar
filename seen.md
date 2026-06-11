@@ -58,3 +58,4 @@ arXiv:2605.22478 | Matching with Deliberation: Test-Time Evolutionary Hierarchic
 arXiv:2605.26861 | REVERSE: Reinforcing Evidence Verification and Search for Agentic Image Geo-localization | 2026-06-09
 arXiv:2605.31251 | ERGeoBench: A Comprehensive Benchmark for Embodied Reasoning and Geo-localization in Multimodal Large Language Models | 2026-06-09
 arXiv:2606.05749 | MARDoc: A Memory-Aware Refinement Agent Framework for Multimodal Long Document QA | 2026-06-09
+arXiv:2606.05011 | CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation | 2026-06-11
