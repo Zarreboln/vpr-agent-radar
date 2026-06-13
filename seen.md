@@ -61,3 +61,5 @@ arXiv:2606.05749 | MARDoc: A Memory-Aware Refinement Agent Framework for Multimo
 arXiv:2606.05011 | CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation | 2026-06-11
 arXiv:2606.11880 | SG2Loc: Sequential Visual Localization on 3D Scene Graphs | 2026-06-12
 arXiv:2606.12294 | Bridging the Modality Gap in Forensic Image Retrieval | 2026-06-12
+arXiv:2606.12295 | Findings of the MAGMaR 2026 Shared Task | 2026-06-13
+arXiv:2606.11563 | Cross-Modal Benchmarking for Robotic Perception in Natural Environments | 2026-06-13
