@@ -63,3 +63,41 @@ arXiv:2606.11880 | SG2Loc: Sequential Visual Localization on 3D Scene Graphs | 2
 arXiv:2606.12294 | Bridging the Modality Gap in Forensic Image Retrieval | 2026-06-12
 arXiv:2606.12295 | Findings of the MAGMaR 2026 Shared Task | 2026-06-13
 arXiv:2606.11563 | Cross-Modal Benchmarking for Robotic Perception in Natural Environments | 2026-06-13
+arXiv:2503.21338 | UGNA-VPR: A Novel Training Paradigm for Visual Place Recognition Based on Uncertainty-Guided NeRF Augmentation | 2026-06-13
+arXiv:2502.16601 | SelaVPR++: Towards Seamless Adaptation of Foundation Models for Efficient Place Recognition | 2026-06-13
+arXiv:2504.09881 | Focus on Local: Finding Reliable Discriminative Regions for Visual Place Recognition | 2026-06-13
+arXiv:2509.25723 | SAGE: Spatial-visual Adaptive Graph Exploration for Efficient Visual Place Recognition | 2026-06-13
+arXiv:2505.13731 | GeoRanker: Distance-Aware Ranking for Worldwide Image Geolocalization | 2026-06-13
+arXiv:2505.13669 | GeoVLM: Improving Automated Vehicle Geolocalisation Using Vision-Language Matching | 2026-06-13
+arXiv:2505.12254 | MMS-VPR: Multimodal Street-Level Visual Place Recognition Dataset and Benchmark | 2026-06-13
+arXiv:2504.11134 | Visual Re-Ranking with Non-Visual Side Information (GCSA) | 2026-06-13
+arXiv:2504.06116 | To Match or Not to Match: Revisiting Image Matching for Reliable Visual Place Recognition | 2026-06-13
+arXiv:2506.14674 | Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models (GLOBE) | 2026-06-13
+arXiv:2501.01421 | R-SCoRe: Revisiting Scene Coordinate Regression for Robust Large-Scale Visual Localization | 2026-06-13
+arXiv:2505.04588 | ZeroSearch: Incentivize the Search Capability of LLMs without Searching | 2026-06-13
+arXiv:2503.09516 | Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning | 2026-06-13
+arXiv:2507.16725 | RAVine: Reality-Aligned Evaluation for Agentic Search | 2026-06-13
+arXiv:2502.04644 | Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research | 2026-06-13
+arXiv:2506.18959 | From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents | 2026-06-13
+arXiv:2501.09136 | Agentic Retrieval-Augmented Generation: A Survey on Agentic RAG | 2026-06-13
+arXiv:2505.18105 | ManuSearch: Democratizing Deep Search in Large Language Models with a Transparent and Open Multi-Agent Framework | 2026-06-13
+arXiv:2505.22571 | Agent-UniRAG: A Trainable Open-Source LLM Agent Framework for Unified Retrieval-Augmented Generation Systems | 2026-06-13
+arXiv:2510.16724 | A Comprehensive Survey on Reinforcement Learning-based Agentic Search | 2026-06-13
+arXiv:2510.27566 | Interact-RAG: Reason and Interact with the Corpus, Beyond Black-Box Retrieval | 2026-06-13
+arXiv:2511.05385 | TeaRAG: A Token-Efficient Agentic Retrieval-Augmented Generation Framework | 2026-06-13
+arXiv:2510.00568 | ReSeek: A Self-Correcting Framework for Search Agents with Instructive Rewards | 2026-06-13
+arXiv:2506.20670 | MMSearch-R1: Incentivizing LMMs to Search | 2026-06-13
+arXiv:2509.26330 | SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking for Training-free Zero-Shot Composed Image Retrieval | 2026-06-13
+arXiv:2504.00954 | IDMR: Towards Instance-Driven Precise Visual Correspondence in Multimodal Retrieval | 2026-06-13
+arXiv:2502.18495 | A Comprehensive Survey on Composed Image Retrieval | 2026-06-13
+arXiv:2512.19115 | Generative Giants, Retrieval Weaklings: Why do Multimodal Large Language Models Fail at Multimodal Retrieval? | 2026-06-13
+arXiv:2508.02258 | Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning | 2026-06-13
+arXiv:2507.05513 | Llama Nemoretriever Colembed: Top-Performing Text-Image Retrieval Model | 2026-06-13
+arXiv:2508.04424 | Composed Object Retrieval (COR): Object-level Retrieval via Composed Expressions | 2026-06-13
+arXiv:2509.26012 | SETR: A Two-Stage Semantic-Enhanced Framework for Zero-Shot Composed Image Retrieval | 2026-06-13
+arXiv:2505.17796 | DetailFusion: A Dual-branch Framework with Detail Enhancement for Composed Image Retrieval | 2026-06-13
+arXiv:2503.21309 | FineCIR: Explicit Parsing of Fine-Grained Modification Semantics for Composed Image Retrieval | 2026-06-13
+arXiv:2504.16691 | Rethinking Vision Transformer for Large-Scale Fine-Grained Image Retrieval (EET) | 2026-06-13
+arXiv:2504.14988 | Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks (FG-BMK) | 2026-06-13
+arXiv:2503.17871 | good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval | 2026-06-13
+arXiv:2509.00177 | Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders | 2026-06-13
