@@ -101,3 +101,6 @@ arXiv:2504.16691 | Rethinking Vision Transformer for Large-Scale Fine-Grained Im
 arXiv:2504.14988 | Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks (FG-BMK) | 2026-06-13
 arXiv:2503.17871 | good4cir: Generating Detailed Synthetic Captions for Composed Image Retrieval | 2026-06-13
 arXiv:2509.00177 | Category-level Text-to-Image Retrieval Improved: Bridging the Domain Gap with Diffusion Models and Vision Encoders | 2026-06-13
+arXiv:2605.05242 | Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction | 2026-06-14
+arXiv:2605.29307 | GrepSeek: Training Search Agents for Direct Corpus Interaction | 2026-06-14
+arXiv:2606.06880 | Towards Retrieving Interaction Spaces for Agentic Search | 2026-06-14
