@@ -104,3 +104,5 @@ arXiv:2509.00177 | Category-level Text-to-Image Retrieval Improved: Bridging the
 arXiv:2605.05242 | Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction | 2026-06-14
 arXiv:2605.29307 | GrepSeek: Training Search Agents for Direct Corpus Interaction | 2026-06-14
 arXiv:2606.06880 | Towards Retrieving Interaction Spaces for Agentic Search | 2026-06-14
+arXiv:2606.10166 | Fusing Satellite Imagery and Planimetric Maps for Cross-View Localization | 2026-06-15
+arXiv:2606.12087 | FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents | 2026-06-15
