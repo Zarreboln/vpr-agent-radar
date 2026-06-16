@@ -106,3 +106,7 @@ arXiv:2605.29307 | GrepSeek: Training Search Agents for Direct Corpus Interactio
 arXiv:2606.06880 | Towards Retrieving Interaction Spaces for Agentic Search | 2026-06-14
 arXiv:2606.10166 | Fusing Satellite Imagery and Planimetric Maps for Cross-View Localization | 2026-06-15
 arXiv:2606.12087 | FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents | 2026-06-15
+arXiv:2605.06647 | Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval | 2026-06-16
+arXiv:2603.04384 | AgentIR: Reasoning-Aware Retrieval for Deep Research Agents | 2026-06-16
+arXiv:2602.06034 | V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval | 2026-06-16
+arXiv:2603.25686 | Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming | 2026-06-16
