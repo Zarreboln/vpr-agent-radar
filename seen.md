@@ -110,3 +110,11 @@ arXiv:2605.06647 | Superintelligent Retrieval Agent: The Next Frontier of Inform
 arXiv:2603.04384 | AgentIR: Reasoning-Aware Retrieval for Deep Research Agents | 2026-06-16
 arXiv:2602.06034 | V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval | 2026-06-16
 arXiv:2603.25686 | Just Zoom In: Cross-View Geo-Localization via Autoregressive Zooming | 2026-06-16
+arXiv:2601.18207 | PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR | 2026-06-17
+arXiv:2606.02373 | Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses | 2026-06-17
+arXiv:2601.06021 | Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards | 2026-06-17
+arXiv:2603.01152 | DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent | 2026-06-17
+arXiv:2603.17360 | MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-of-Thought Reasoning for Composed Image Retrieval | 2026-06-17
+arXiv:2603.26341 | HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network | 2026-06-17
+arXiv:2605.14787 | Do Composed Image Retrieval Benchmarks Require Multimodal Composition? | 2026-06-17
+arXiv:2602.23029 | WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval | 2026-06-17
