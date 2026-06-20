@@ -118,3 +118,7 @@ arXiv:2603.17360 | MCoT-MVS: Multi-level Vision Selection by Multi-modal Chain-o
 arXiv:2603.26341 | HINT: Composed Image Retrieval with Dual-path Compositional Contextualized Network | 2026-06-17
 arXiv:2605.14787 | Do Composed Image Retrieval Benchmarks Require Multimodal Composition? | 2026-06-17
 arXiv:2602.23029 | WISER: Wider Search, Deeper Thinking, and Adaptive Fusion for Training-Free Zero-Shot Composed Image Retrieval | 2026-06-17
+arXiv:2511.15705 | GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocalization | 2026-06-20
+arXiv:2605.06285 | LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG | 2026-06-20
+arXiv:2606.07689 | Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking | 2026-06-20
+arXiv:2606.15231 | Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning | 2026-06-20
