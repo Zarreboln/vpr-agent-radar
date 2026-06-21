@@ -122,3 +122,9 @@ arXiv:2511.15705 | GeoVista: Web-Augmented Agentic Visual Reasoning for Geolocal
 arXiv:2605.06285 | LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG | 2026-06-20
 arXiv:2606.07689 | Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking | 2026-06-20
 arXiv:2606.15231 | Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning | 2026-06-20
+arXiv:2605.11654 | Weather-Robust Cross-View Geo-Localization via Prototype-Based Semantic Part Discovery | 2026-06-21
+arXiv:2606.17209 | Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search | 2026-06-21
+arXiv:2606.15906 | MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic Multimodal RAG in Long-Document QA | 2026-06-21
+arXiv:2601.12346 | MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents | 2026-06-21
+arXiv:2605.29861 | Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation | 2026-06-21
+arXiv:2606.02320 | TVIR: Building Deep Research Agents Towards Text-Visual Interleaved Report Generation | 2026-06-21
