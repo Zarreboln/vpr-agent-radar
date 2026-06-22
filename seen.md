@@ -128,3 +128,4 @@ arXiv:2606.15906 | MAGE-RAG: Multigranular Adaptive Graph Evidence for Agentic M
 arXiv:2601.12346 | MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents | 2026-06-21
 arXiv:2605.29861 | Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation | 2026-06-21
 arXiv:2606.02320 | TVIR: Building Deep Research Agents Towards Text-Visual Interleaved Report Generation | 2026-06-21
+arXiv:2606.20235 | ScholarQuest: A Taxonomy-Guided Benchmark for Agentic Academic Paper Search in Open Literature Environments | 2026-06-22
