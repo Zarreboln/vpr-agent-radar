@@ -129,3 +129,12 @@ arXiv:2601.12346 | MMDeepResearch-Bench: A Benchmark for Multimodal Deep Researc
 arXiv:2605.29861 | Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation | 2026-06-21
 arXiv:2606.02320 | TVIR: Building Deep Research Agents Towards Text-Visual Interleaved Report Generation | 2026-06-21
 arXiv:2606.20235 | ScholarQuest: A Taxonomy-Guided Benchmark for Agentic Academic Paper Search in Open Literature Environments | 2026-06-22
+arXiv:2502.17237 | MegaLoc: One Retrieval to Place Them All | 2026-06-23
+arXiv:2502.14638 | NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization | 2026-06-23
+arXiv:2603.28407 | MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome | 2026-06-23
+arXiv:2602.17518 | A Picture of Agentic Search | 2026-06-23
+arXiv:2604.10938 | AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web | 2026-06-23
+arXiv:2603.01493 | PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval | 2026-06-23
+arXiv:2602.12876 | BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents | 2026-06-23
+arXiv:2603.16289 | VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents | 2026-06-23
+arXiv:2502.20826 | CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval | 2026-06-23
