@@ -138,3 +138,8 @@ arXiv:2603.01493 | PhotoBench: Beyond Visual Matching Towards Personalized Inten
 arXiv:2602.12876 | BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents | 2026-06-23
 arXiv:2603.16289 | VisBrowse-Bench: Benchmarking Visual-Native Search for Multimodal Browsing Agents | 2026-06-23
 arXiv:2502.20826 | CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval | 2026-06-23
+arXiv:2602.12617 | GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics | 2026-06-24
+arXiv:2601.00388 | Vision-Language Reasoning for Geolocalization: A Reinforcement Learning Approach | 2026-06-24
+arXiv:2604.04017 | GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces | 2026-06-24
+arXiv:2606.09730 | SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research | 2026-06-24
+arXiv:2604.07863 | Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory | 2026-06-24
