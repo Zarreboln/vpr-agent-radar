@@ -143,3 +143,7 @@ arXiv:2601.00388 | Vision-Language Reasoning for Geolocalization: A Reinforcemen
 arXiv:2604.04017 | GeoBrowse: A Geolocation Benchmark for Agentic Tool Use with Expert-Annotated Reasoning Traces | 2026-06-24
 arXiv:2606.09730 | SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research | 2026-06-24
 arXiv:2604.07863 | Task-Adaptive Retrieval over Agentic Multi-Modal Web Histories via Learned Graph Memory | 2026-06-24
+arXiv:2601.19155 | LocationAgent: A Hierarchical Agent for Image Geolocation via Decoupling Strategy and Evidence from Parametric Knowledge | 2026-06-25
+arXiv:2604.06156 | MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control | 2026-06-25
+arXiv:2602.13823 | Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings | 2026-06-25
+arXiv:2505.19952 | Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval | 2026-06-25
