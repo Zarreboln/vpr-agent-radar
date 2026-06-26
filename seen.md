@@ -147,3 +147,11 @@ arXiv:2601.19155 | LocationAgent: A Hierarchical Agent for Image Geolocation via
 arXiv:2604.06156 | MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control | 2026-06-25
 arXiv:2602.13823 | Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings | 2026-06-25
 arXiv:2505.19952 | Multimodal Reasoning Agent for Zero-Shot Composed Image Retrieval | 2026-06-25
+arXiv:2506.21506 | Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge | 2026-06-26
+arXiv:2606.15367 | S1-DeepResearch: Beyond Search, Toward Real-World Long-Horizon Research Agents | 2026-06-26
+arXiv:2606.19893 | MetaResearcher: Scaling Deep Research via Self-Reflective Reinforcement Learning in Adversarial Virtual Environments | 2026-06-26
+arXiv:2606.15838 | Intelligent Multimodal Retrieval and Reasoning for Geospatial Knowledge Discovery on the I-GUIDE Platform | 2026-06-26
+arXiv:2603.00873 | MC-Search: Evaluating and Enhancing Multimodal Agentic Search with Structured Long Reasoning Chains | 2026-06-26
+arXiv:2603.02929 | TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval | 2026-06-26
+arXiv:2603.01475 | WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments | 2026-06-26
+arXiv:2603.22153 | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | 2026-06-26
