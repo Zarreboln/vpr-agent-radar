@@ -155,3 +155,12 @@ arXiv:2603.00873 | MC-Search: Evaluating and Enhancing Multimodal Agentic Search
 arXiv:2603.02929 | TRACE: Task-Adaptive Reasoning and Representation Learning for Universal Multimodal Retrieval | 2026-06-26
 arXiv:2603.01475 | WildCross: A Cross-Modal Large Scale Benchmark for Place Recognition and Metric Depth Estimation in Natural Environments | 2026-06-26
 arXiv:2603.22153 | Beyond Matching to Tiles: Bridging Unaligned Aerial and Satellite Views for Vision-Only UAV Navigation | 2026-06-26
+arXiv:2507.18444 | DSFormer: A Dual-Scale Cross-Learning Transformer for Visual Place Recognition | 2026-06-27
+arXiv:2507.17455 | VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization | 2026-06-27
+arXiv:2507.15089 | Visual Place Recognition for Large-Scale UAV Applications | 2026-06-27
+arXiv:2601.17617 | Agentic Search in the Wild: Intents and Trajectory Dynamics from 14M+ Real Search Requests | 2026-06-27
+arXiv:2601.04703 | Beyond Monolithic Architectures: A Multi-Agent Search and Knowledge Optimization Framework for Agentic Search | 2026-06-27
+arXiv:2602.02185 | Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models | 2026-06-27
+arXiv:2606.18885 | LARE: Low-Attention Region Encoding for Text-Image Retrieval | 2026-06-27
+arXiv:2601.14060 | Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration | 2026-06-27
+arXiv:2601.11393 | Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning | 2026-06-27
