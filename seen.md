@@ -164,3 +164,9 @@ arXiv:2602.02185 | Vision-DeepResearch Benchmark: Rethinking Visual and Textual 
 arXiv:2606.18885 | LARE: Low-Attention Region Encoding for Text-Image Retrieval | 2026-06-27
 arXiv:2601.14060 | Fine-Grained Zero-Shot Composed Image Retrieval with Complementary Visual-Semantic Integration | 2026-06-27
 arXiv:2601.11393 | Heterogeneous Uncertainty-Guided Composed Image Retrieval with Fine-Grained Probabilistic Learning | 2026-06-27
+arXiv:2512.11811 | Enhancing Geo-localization for Crowdsourced Flood Imagery via LLM-Guided Attention | 2026-06-28
+arXiv:2511.00908 | GraphGeo: Multi-Agent Debate Framework for Visual Geo-localization with Heterogeneous Graph Neural Networks | 2026-06-28
+arXiv:2507.14477 | OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition | 2026-06-28
+arXiv:2604.19859 | DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data | 2026-06-28
+arXiv:2605.24218 | QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks | 2026-06-28
+arXiv:2603.18516 | Total Recall QA: A Verifiable Evaluation Suite for Deep Research Agents | 2026-06-28
