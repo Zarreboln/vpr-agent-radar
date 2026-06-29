@@ -1,77 +1,105 @@
-2026-06-28 新增 6 篇，已按顶会/高赞优先排序
+2026-06-29 新增 8 篇，已按顶会/高赞优先排序
 
 ---
 
-## 方向一：VPR / 视觉位置识别 / 视觉地理定位（3 篇）
+## 方向一：VPR / 视觉位置识别 / 视觉地理定位（2 篇）
 
-### 1. **Enhancing Geo-localization for Crowdsourced Flood Imagery via LLM-Guided Attention**
+### 1. **Unifying UAV Cross-View Geo-Localization via 3D Geometric Perception**
 
-作者：Fengyi Xu, Jun Ma, Waishan Qiu, Cui Guo, Jack C.P. Cheng
+作者：Haoyuan Li, Wen Yang, Fang Xu, Hong Tan, Haijian Zhang, Shengyang Li, Gui-Song Xia
 
-arXiv:[2512.11811](https://arxiv.org/abs/2512.11811)(2025-12，已发表于 Computers, Environment and Urban Systems 期刊)
-
-`[期刊发表]`
-
-提出 VPR-AttLLM，一个模型无关框架，将 LLM 的语义推理和地理知识通过注意力引导的描述符增强集成进现有 VPR 管道。无需重训练，可直接与 CosPlace、EigenPlaces、SALAD 等主流 VPR 模型结合，在真实洪水社交媒体图像上最多提升 8% 的 Recall。
-
----
-
-### 2. **GraphGeo: Multi-Agent Debate Framework for Visual Geo-localization with Heterogeneous Graph Neural Networks**
-
-作者：Heng Zheng, Yuling Shi, Xiaodong Gu, Haochen You, Zijian Zhang, Lubin Gan, Hao Zhang, Wenjun Huang, Jin Huang
-
-arXiv:[2511.00908](https://arxiv.org/abs/2511.00908)(2025-11-02)
+arXiv:[2604.01747](https://arxiv.org/abs/2604.01747)(2026-04-02)
 
 `[热度:未知]`
 
-构建多智能体辩论框架 GraphGeo，通过异构图神经网络对多个 LVLM 智能体之间的合作（agreement）、竞争（conflict）、知识迁移（transfer）三类关系建模，引入双层辩论机制（节点级精化 + 边级论证），在多个地理定位 benchmark 上显著超越 SOTA。
+提出几何感知的无人机地理定位框架，使用 VGGT 从多视角无人机图像重建 3D 场景并渲染 BEV 对齐卫星图，统一地点检索与姿态估计两个子任务；同步发布重标注 University-1652 数据集。
 
 ---
 
-### 3. **OptiCorNet: Optimizing Sequence-Based Context Correlation for Visual Place Recognition**
+### 2. **Scale-Aware UAV-to-Satellite Cross-View Geo-Localization: A Semantic Geometric Approach**
 
-作者：Zhenyu Li, Tianyi Shang, Pengjie Xu, Ruirui Zhang, Fanchen Kong
+作者：Yibin Ye, Shuo Chen, Kun Wang, Xiaokai Song, Jisheng Dang, Qifeng Yu, Xichao Teng, Zhang Li
 
-arXiv:[2507.14477](https://arxiv.org/abs/2507.14477)(2025-07-19)
+arXiv:[2603.07535](https://arxiv.org/abs/2603.07535)(2026-03-08)
 
 `[热度:未知]`
 
-提出 OptiCorNet，将空间特征提取与时序差分统一到一个可微端到端模块中。核心创新 DSD（Differentiable Sequence Delta）通过固定权重差分核建模序列方向差异，配合 LSTM 精化和残差投影，生成对视角和外观变化鲁棒的紧凑序列描述符，适用于动态/感知混叠环境下的长期定位。
+以小型车辆为语义锚点从单目无人机图像恢复绝对真实尺度，配合解耦立体投影模型解决无人机图像尺度不确定性问题，在 DenseUAV 和 UAV-VisLoc 数据集上显著提升未知尺度下的跨视图定位鲁棒性。
 
 ---
 
-## 方向二：Agent 做检索 / Agentic RAG（3 篇）
+## 方向二：Agent 做检索 / Agentic RAG（2 篇）
 
-### 4. **DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data**
+### 3. **CriticSearch: Fine-Grained Credit Assignment for Search Agents via a Retrospective Critic**
 
-作者：Venus Team, Sunhao Dai, Yong Deng, Jinzhen Lin, Yusheng Song, Guoqing Wang, Xiaofeng Wu, Yuqi Zhou 等
+作者：Yaocheng Zhang, Haohuan Huang, Zijun Song, Yuanheng Zhu, Qichao Zhang, Zijie Zhao, Dongbin Zhao
 
-arXiv:[2604.19859](https://arxiv.org/abs/2604.19859)(2026-04-21)
+arXiv:[2511.12159](https://arxiv.org/abs/2511.12159)(2025-11-15)
 
-`[HF▲54 | GitHub: inclusionAI/DR-Venus]`
+`[热度:未知]`
 
-DR-Venus-4B 仅用 10K 开放数据训练出边缘部署级别的 frontier 深度研究 Agent：第一阶段 Agentic SFT（严格数据清洗 + 长 horizon 轨迹重采样），第二阶段 Agentic RL（基于信息增益的 turn 级奖励 + 格式感知正则化）。在 BrowseComp 等基准上媲美更大模型，是小模型部署的有力方案。
-
----
-
-### 5. **QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks**
-
-作者：Jian Xie, Tianhe Lin, Zilu Wang, Yuting Ning, Yuekun Yao, Tianci Xue, Zhehao Zhang, Zhongyang Li 等（OSU-NLP-Group）
-
-arXiv:[2605.24218](https://arxiv.org/abs/2605.24218)(2026-05-22)
-
-`[HF▲46 | GitHub: OSU-NLP-Group/QUEST]`
-
-开源深度研究 Agent 系列（2B–35B），训练流程包含中期训练、SFT 和 RL，核心是基于 rubric tree 的统一合成数据管道，无需人工标注即可生成可验证奖励的训练数据。涵盖事实查找、引用溯源、长报告生成等任务，填补了开源 Agent 泛化差的空白。
+引入事后批评（retrospective critic）机制，在完整轨迹可见时对每个工具调用 turn 给出密集的过程级反馈，为 RL 训练搜索 Agent 提供细粒度信用分配，多跳推理任务上收敛更快、准确率更高。
 
 ---
 
-### 6. **Total Recall QA: A Verifiable Evaluation Suite for Deep Research Agents**
+### 4. **AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning**
 
-作者：Mahta Rafiee, Heydar Soudani, Zahra Abbasiantaeb, Mohammad Aliannejadi, Faegheh Hasibi, Hamed Zamani
+作者：Lang Mei, Zhihan Yang, Chong Chen
 
-arXiv:[2603.18516](https://arxiv.org/abs/2603.18516)(2026-03-19)
+arXiv:[2508.20368](https://arxiv.org/abs/2508.20368)(2025-08-28)
 
-`[GitHub: mahta-r/total-recall-qa]`
+`[热度:未知]`
 
-受 TREC Total Recall Track 启发，构建 TRQA 评估套件：要求深度研究 Agent 对单一查询从大规模语料中检索出所有相关文档，考察多源性、可验证性、可复现性和检索能力。是目前唯一同时满足所有评估关键维度的 DRA 基准，支持 Wikidata-Wikipedia 和电商知识库等多种语料。
+将搜索规划从 QA 模型中解耦，提出即插即用的搜索规划模块，利用双重奖励对齐与 Pareto 多目标优化训练，辅助各类冻结 QA 模型实现更高效检索，显著提升多跳检索性能。
+
+---
+
+## 方向三：Agent 做图像检索（1 篇）
+
+### 5. **Chain-of-Thought Re-ranking for Image Retrieval Tasks**
+
+作者：Shangrong Wu, Yanghong Zhou, Yang Chen, Feng Zhang, P. Y. Mok
+
+arXiv:[2509.14746](https://arxiv.org/abs/2509.14746)(2025-09-18)
+
+`[GitHub: freshfish15/CoTRR]`
+
+提出 CoTRR，利用 MLLM 链式思维推理进行列表级图像重排序，设计图像评估 prompt 支持全局比较与可解释决策，覆盖文本-图像检索、组合图像检索和对话式图像检索三类任务。
+
+---
+
+## 方向四：Agent 做细粒度检索 / 组合图像检索（3 篇）
+
+### 6. **QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval**
+
+作者：Jaehyun Kwak, Ramahdani Muhammad Izaaz Inhar, Se-Young Yun, Sung-Ju Lee
+
+arXiv:[2507.12416](https://arxiv.org/abs/2507.12416)(2025-07-16,ICML 2025)
+
+`[ICML 2025]`
+
+指出 CIR 对比学习中假负例问题，引入奖励模型目标和硬负例采样策略，有效过滤假负例，在 FashionIQ 和 CIRR 上超越 SOTA，已收录 ICML 2025。
+
+---
+
+### 7. **A Sanity Check on Composed Image Retrieval**
+
+作者：Yikun Liu, Jiangchao Yao, Weidi Xie, Yanfeng Wang
+
+arXiv:[2604.12904](https://arxiv.org/abs/2604.12904)(2026-04-14)
+
+`[热度:未知]`
+
+揭示现有 CIR benchmark 的不确定查询问题，提出 FISD benchmark 精确控制六维评估维度，并设计自动多轮 agentic 评估框架探究现有模型潜力上限。
+
+---
+
+### 8. **MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval**
+
+作者：Jeong-Woo Park, Seong-Whan Lee
+
+arXiv:[2507.12819](https://arxiv.org/abs/2507.12819)(2025-07-17)
+
+`[热度:未知]`
+
+无需训练的零样本 CIR 框架，利用 MLLM 多面向 CoT 生成修改聚焦描述（过滤候选）与视觉-文本整合描述（重排序），在 FashionIQ R@10 和 CIRR R@1 上分别提升 6.24% 和 8.58%。

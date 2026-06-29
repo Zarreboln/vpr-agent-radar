@@ -170,3 +170,11 @@ arXiv:2507.14477 | OptiCorNet: Optimizing Sequence-Based Context Correlation for
 arXiv:2604.19859 | DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data | 2026-06-28
 arXiv:2605.24218 | QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks | 2026-06-28
 arXiv:2603.18516 | Total Recall QA: A Verifiable Evaluation Suite for Deep Research Agents | 2026-06-28
+arXiv:2604.01747 | Unifying UAV Cross-View Geo-Localization via 3D Geometric Perception | 2026-06-29
+arXiv:2603.07535 | Scale-Aware UAV-to-Satellite Cross-View Geo-Localization: A Semantic Geometric Approach | 2026-06-29
+arXiv:2511.12159 | CriticSearch: Fine-Grained Credit Assignment for Search Agents via a Retrospective Critic | 2026-06-29
+arXiv:2508.20368 | AI-SearchPlanner: Modular Agentic Search via Pareto-Optimal Multi-Objective Reinforcement Learning | 2026-06-29
+arXiv:2509.14746 | Chain-of-Thought Re-ranking for Image Retrieval Tasks | 2026-06-29
+arXiv:2507.12416 | QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval | 2026-06-29
+arXiv:2604.12904 | A Sanity Check on Composed Image Retrieval | 2026-06-29
+arXiv:2507.12819 | MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval | 2026-06-29
