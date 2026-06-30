@@ -178,3 +178,13 @@ arXiv:2509.14746 | Chain-of-Thought Re-ranking for Image Retrieval Tasks | 2026-
 arXiv:2507.12416 | QuRe: Query-Relevant Retrieval through Hard Negative Sampling in Composed Image Retrieval | 2026-06-29
 arXiv:2604.12904 | A Sanity Check on Composed Image Retrieval | 2026-06-29
 arXiv:2507.12819 | MCoT-RE: Multi-Faceted Chain-of-Thought and Re-Ranking for Training-Free Zero-Shot Composed Image Retrieval | 2026-06-29
+arXiv:2603.27758 | RHO: Robust Holistic OSM-Based Metric Cross-View Geo-Localization | 2026-06-30
+arXiv:2603.02726 | MultiLevel Joint Learning with Spatial and Frequency Domain Enhancement for Cross-View Geo-Localization | 2026-06-30
+arXiv:2509.13312 | WebWeaver: Structuring Web-Scale Evidence with Dynamic Outlines for Open-Ended Deep Research | 2026-06-30
+arXiv:2512.20491 | Step-DeepResearch Technical Report | 2026-06-30
+arXiv:2509.13309 | WebResearcher: Unleashing unbounded reasoning capability in Long-Horizon Agents | 2026-06-30
+arXiv:2508.08088 | HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating Local and Web Searches | 2026-06-30
+arXiv:2604.14518 | Mind DeepResearch Technical Report | 2026-06-30
+arXiv:2602.05975 | SAGE: Benchmarking and Improving Retrieval for Deep Research Agents | 2026-06-30
+arXiv:2602.21456 | Revisiting Text Ranking in Deep Research | 2026-06-30
+arXiv:2506.22056 | Universal Retrieval for Multimodal Trajectory Modeling | 2026-06-30
