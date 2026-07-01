@@ -188,3 +188,8 @@ arXiv:2604.14518 | Mind DeepResearch Technical Report | 2026-06-30
 arXiv:2602.05975 | SAGE: Benchmarking and Improving Retrieval for Deep Research Agents | 2026-06-30
 arXiv:2602.21456 | Revisiting Text Ranking in Deep Research | 2026-06-30
 arXiv:2506.22056 | Universal Retrieval for Multimodal Trajectory Modeling | 2026-06-30
+arXiv:2606.30576 | Beyond 2D Matching: A Unified Single-Stage Framework for Geometry-Aware Cross-View Object Geo-Localization | 2026-07-01
+arXiv:2506.13133 | EmbodiedPlace: Learning Mixture-of-Features with Embodied Constraints for Visual Place Recognition | 2026-07-01
+arXiv:2602.19127 | AgenticRAGTracer: A Hop-Aware Benchmark for Diagnosing Multi-Step Retrieval Reasoning in Agentic RAG | 2026-07-01
+arXiv:2606.00610 | MemGraphRAG: Memory-based Multi-Agent System for Graph Retrieval-Augmented Generation | 2026-07-01
+arXiv:2606.00590 | Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback | 2026-07-01
